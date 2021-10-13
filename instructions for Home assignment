@@ -1,0 +1,8 @@
+Cloudinary home assignment - Marina Pinhass.
+
+in order to run the automated test of Cloudinary's site you will need to install the following applications:
+
+1.selenium using java webdriver
+2.eclipse
+3.chrome driver
+4.JDK
